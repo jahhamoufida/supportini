@@ -23,5 +23,5 @@ par les utilisateurs.
 
 1. Cloner le repository :
 ```bash
-git clone https://github.com/VOTRE-USERNAME/evenement-supportini.git
-cd evenement-supportini
+git clone https://github.com/jahhamoufida/supportini.git
+cd supportini
