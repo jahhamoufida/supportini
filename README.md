@@ -8,6 +8,10 @@ Evenement Supportini est une application web développée dans le cadre du modul
 Le projet permet la gestion des événements ainsi que la réservation des places
 par les utilisateurs.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 61c316a75686a12e3fdcb53b0249215b3c9fc520
 
 ## 📑 Table des matières
 
