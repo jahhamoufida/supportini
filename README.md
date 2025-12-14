@@ -9,6 +9,10 @@ Le projet permet la gestion des événements ainsi que la réservation des place
 par les utilisateurs.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+>>>>>>> 61c316a75686a12e3fdcb53b0249215b3c9fc520
 =======
 
 >>>>>>> 61c316a75686a12e3fdcb53b0249215b3c9fc520
@@ -19,7 +23,11 @@ par les utilisateurs.
 - [Utilisation](#utilisation)
 - [Contribution](#contribution)
 - [Licence](#licence)
+<<<<<<< HEAD
 
+=======
+---
+>>>>>>> 61c316a75686a12e3fdcb53b0249215b3c9fc520
 
 
 ## 🚀 Fonctionnalités
