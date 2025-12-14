@@ -8,7 +8,7 @@ Evenement Supportini est une application web développée dans le cadre du modul
 Le projet permet la gestion des événements ainsi que la réservation des places
 par les utilisateurs.
 
----
+
 
 ## 📑 Table des matières
 
@@ -24,7 +24,7 @@ Pour les patients : Prise de rendez-vous en ligne, consultation de l'historique
 Pour les médecins : Gestion du planning, consultation des dossiers patients
 Pour les administrateurs : Gestion des utilisateurs et statistiques
 
----
+
 ## 🛠️ Technologies utilisées
 Frontend : HTML5, CSS3, JavaScript
 Backend : PHP 8.x
@@ -32,7 +32,7 @@ Base de données : MySQL
 Serveur : XAMPP (Apache)
 Versioning : Git & GitHub
 
----
+
 ## 🛠️ Installation
 Prérequis
 XAMPP (Apache + MySQL + PHP)
